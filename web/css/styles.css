@@ -1539,6 +1539,10 @@ a:hover.back-to-top {
 		width: 350px;
 		height: 280px;
 	}
+
+	.about-hotel-text {
+		text-align: center;
+	}
 		
 }
 
@@ -1557,6 +1561,10 @@ a:hover.back-to-top {
 	.social-media-position {
 		margin-left: 15px;
 	}
+
+	.about-hotel-text {
+		text-align: center;
+	}
 }
 /* Min-width width 450px */
 @media (min-width: 450px) {
@@ -1568,6 +1576,10 @@ a:hover.back-to-top {
 	.social-media-position {
 		margin-left: 25px;
 	}
+	
+	.about-hotel-text {
+		text-align:center;
+	}
 }
 
 /* Min-width width 551px */
@@ -1576,6 +1588,8 @@ a:hover.back-to-top {
 		width: 500px;
 		height: 300px;
 	}
+
+	
 
 	.social-media-position {
 		margin-left: 80px;
@@ -1601,6 +1615,8 @@ a:hover.back-to-top {
 		.social-media-position {
 			margin-left: 110px;
 		}
+
+
 		
 			/* Navigation */
 			.navbar-custom {
