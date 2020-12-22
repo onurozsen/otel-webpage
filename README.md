@@ -1,4 +1,6 @@
 # OTEL WEBPAGE
+Html, css, javascript, jquery
+
 ![onurOtel](https://user-images.githubusercontent.com/32279964/100224327-bf08f080-2f2d-11eb-87b4-02172a37617b.png)
 ![aboutotel](https://user-images.githubusercontent.com/32279964/100224706-3b9bcf00-2f2e-11eb-95e1-fdceb906ea65.png)
 ![activities](https://user-images.githubusercontent.com/32279964/100224712-3d659280-2f2e-11eb-8290-bdd087abd5b4.png)
