@@ -1,5 +1,5 @@
 # OTEL WEBPAGE
-Html, css, javascript, jquery
+HTML | CSS | JAVASCRIPT | JQUERY
 
 ![onurOtel](https://user-images.githubusercontent.com/32279964/100224327-bf08f080-2f2d-11eb-87b4-02172a37617b.png)
 ![aboutotel](https://user-images.githubusercontent.com/32279964/100224706-3b9bcf00-2f2e-11eb-95e1-fdceb906ea65.png)
